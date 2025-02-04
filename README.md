@@ -99,7 +99,7 @@ We welcome contributions! [See the docs for guidelines](https://cookiecutter-dat
 ### Installing development requirements
 
 ```bash
-pip install -r dev-requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Running the tests
